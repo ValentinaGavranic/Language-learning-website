@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'gamulin'
+// gamulin.llDiscussion
+
+[{"id_discussion": 1,"text": "greeat link","id_user": "miha","id_lesson": 3,"date": "2018-05-17 00:02:00"}, {"id_discussion": 2,"text": "oh nee","id_user": "vale","id_lesson": 1,"date": "2018-05-17 00:05:00"}, {"id_discussion": 9,"text": "fewfwe","id_user": "dajo","id_lesson": 1,"date": "2018-07-09 22:13:26"}, {"id_discussion": 10,"text": "neki komentar","id_user": "dajo","id_lesson": 1,"date": "2018-07-09 22:16:28"}, {"id_discussion": 11,"text": "gdje si dajo","id_user": "vale","id_lesson": 1,"date": "2018-07-09 22:32:01"}, {"id_discussion": 12,"text": "animals xD","id_user": "vale","id_lesson": 3,"date": "2018-07-09 22:45:35"}, {"id_discussion": 13,"text": "Njaaaaam :)","id_user": "miha","id_lesson": 4,"date": "2018-07-10 00:19:51"}, {"id_discussion": 14,"text": "Greeeeeeat :D","id_user": "Spek","id_lesson": 2,"date": "2018-07-10 12:15:49"}, {"id_discussion": 15,"text": "odličan kviz prepun prelijepih pitanja za učenje š","id_user": "PRMB","id_lesson": 1,"date": "2018-07-10 12:28:37"}, {"id_discussion": 17,"text": "super kviz. sve sam naučio ","id_user": "PRMB","id_lesson": 2,"date": "2018-07-10 12:35:32"}, {"id_discussion": 18,"text": "mihaela volin te :D","id_user": "PRMB","id_lesson": 3,"date": "2018-07-10 13:17:41"}, {"id_discussion": 19,"text": "Didn\'t know that la abuela is grandmother. Thanks ","id_user": "mirko","id_lesson": 2,"date": "2018-07-10 16:29:15"}, {"id_discussion": 20,"text": "Took me so long to pass this","id_user": "miha","id_lesson": 5,"date": "2018-07-10 16:32:00"}, {"id_discussion": 21,"text": "Waaaaaaaaay too easy!","id_user": "ivan","id_lesson": 1,"date": "2018-07-11 11:16:04"}]
